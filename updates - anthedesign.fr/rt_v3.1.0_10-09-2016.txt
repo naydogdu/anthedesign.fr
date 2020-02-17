@@ -1,0 +1,19 @@
+v3.0.9 -> v3.1.0
+ - Amélioration effet survol des blocs de contenu (cards)
+ - Egalisation des hauteurs de cards excepté sur les vues masonry.
+ - Amélioration visuelle page Plan de site : https://www.anthedesign.fr/plan-site/
+ - Correction des espacements verticaux, notamment sur Index Blog
+ - Index Blog : 
+  -- Le premier bloc avec les stickys a été optimisé (plus fidèle à la maquette).
+  -- Ce même bloc affiche d'abord le dernier article, puis les mis en avant s'il y en a, puis les derniers articles si il n'y a plus de sticky. Limité à 3 comme sur la maquette.
+  -- Plus besoin donc de mettre en avant le dernier article, ce qui n'est pas un comportoment logique.
+  -- Le deuxième bloc ('Les + Récents'), reprend s'il en reste les autres stickys, puis les derniers articles.
+  -- Nav des sliders flotte à droite en face des titres (comme sur la maquette).
+  -- Corrections responsive smartphone.
+ - Correction visuelle header: largeur sous-titre rétréci (emboitement moins large, n'est plus mangé par la diagonale quand il va sur plusieurs lignes).
+ - Amélioration visuelle espacement bas header (le contenu grignote vers le haut pour apparaître dans la ligne de flottaison)
+ - Correction vue résultat recherche infructueuse
+ - Correction zone de contenu : ajout d'un espacement pour la liste à puce après box info.
+ - Modification image à la une pour A vue d'oeil Portfolio version EN.
+ 
+ 

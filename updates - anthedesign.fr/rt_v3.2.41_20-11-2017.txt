@@ -1,0 +1,13 @@
+v3.2.4 -> v3.2.41
+
+ - Fix compatibilité WP 4.9, "get_category_link" obsolète pour les custom taxonomies
+ 
+ - Utilisation de "get_term_link" à la place
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 

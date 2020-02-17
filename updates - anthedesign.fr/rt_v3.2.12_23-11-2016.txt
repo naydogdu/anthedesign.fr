@@ -1,0 +1,6 @@
+v3.2.11 -> v3.2.12
+
+ - Corrections chevauchement envoi demande de devis, page Contact
+ - Ajout icônes Services EN
+ - Correction visuelle mineure : Boutons d'actions du slideshow accueil blanc #f5f5f5 au lieu de #fff
+ 

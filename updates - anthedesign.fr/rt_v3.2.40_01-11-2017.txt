@@ -1,0 +1,11 @@
+v3.2.39 -> v3.2.4
+
+ - Suppression icône maison sur la Home
+
+ - Tous les liens sociaux (partage, profil) en nofollow
+
+ 
+ 
+ 
+ 
+ 

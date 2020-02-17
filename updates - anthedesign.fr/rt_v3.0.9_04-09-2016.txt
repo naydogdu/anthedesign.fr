@@ -1,0 +1,32 @@
+v3.0.8 -> v3.0.9
+
+BACK-OFFICE
+ - Choix du CTA désormais disponible sur la page d'édition des types de contenu suivant : pages, articles, services, portfolio, news, jobs. (au même endroit que le choix de la sidebar).
+ ---> exemple : https://www.anthedesign.fr/autour-du-web/selfie/
+
+ - Ajout du support sidebar personnalisé également pour les services et jobs (rétro-compatibilité pour les services déjà en place (histoire de ne pas devoir éditer tous les services).
+
+ - Possibilité d'ajouter une sidebar supplémentaire sur les articles (sur le front on ne voit qu'une sidebar mais la zone latérale peut contenir une deuxième sidebar avec ses widgets, sous la sidebar par défaut des articles). Cela permet d'appeler à l'action en profitant du positionnement de la sidebar (figé en bas), c'est pourquoi on l'affiche après la side par défaut. Exemple : http://prep.anthedesign.fr/webdesign-2/site-responsive-design/ (scroller jusqu'à figer la sidebar en bas).
+
+ - Suppression de l'extension "Visual Editor Custom Buttons" (VECB), responsable d'une erreur js dans le back et désormais inutile (permettait d'afficher un bloc de citation stylé, sauf que le nouveau thème arrive à le faire avec le bloc de citation natif de wp). Cela n'a aucune incidence sur les blocs de citations VECB déjà présent dans les articles.
+
+ - Possibilité de créer de nouvelles zones de widgets (en toute logique) - Apparence > Widgets
+ 
+ - Optis UX Back
+ --- Gestion des langues dans le choix du lien du CTA (sur page d'édition d'un CTA).
+ --- Amélioration champ de sélection de la sidebar latérale (dans "Contenus complémentaires")
+ --- Nettoyage des sidebars disponibles pour le choix de la sidebar latérale (on n'affiche que les zones de widgets latérales).
+
+ - Possibilité d'ajouter un script GTM (juste après <body>) dans Réglages > Codes Google.
+
+ - Amélioration dans l'éditeur visuel : Insertion de blocs infos plus simple (manip : sélectionner le paragraphe puis cliquer sur le bouton), 3 types de blocs.
+
+FRONT
+ - Amélioration visuelle sur le front
+ --- Blocs infos (style visuel + gestion du responsive pour le box blanc)
+ - Reprise du code GTM
+ 
+ ***** Màj 17h48 *****
+ - Amélioration visuelle sur le front 
+ --- Bloc "Voir le site Internet" sidebar portfolio
+ --- Bloc "Coordonnées" sidebar contact

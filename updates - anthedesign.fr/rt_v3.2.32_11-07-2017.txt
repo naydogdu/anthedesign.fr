@@ -1,0 +1,11 @@
+v3.2.31 -> v3.2.32
+
+ - Globalement, optimisations avancées pour améliorer le temps de chargement (en réalité le score Pingdom)
+ - Optimisation des fonctions php et du style css
+ - Suppression requêtes ressources inutiles (implémentation du smallscreen css de woo dans le style.css du site)
+ - Suppression des embeds inutiles (wp-json)
+ - FIX WOO : Suppression de l'appel ajax inutile et gourmand en TDC (300ms) (le script ajax détecte si le panier change, or on redirige vers le panier après ajout panier, donc inutile) 
+ - Optimisation du kit TypeKit (désactivation des Fonctionnalités OpenType). Note : Je n'arrive toujours pas à me débarasser des query strings de typekit, à venir.
+ - Voir dans le dossier SSL la capture Pingdom au 1/07/2017 à 12h30, pour comparer avec le CDN à venir
+ 
+ 

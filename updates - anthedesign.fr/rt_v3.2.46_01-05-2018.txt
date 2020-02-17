@@ -1,0 +1,17 @@
+v3.2.45 -> v3.2.46
+
+ - Ajout & début de développement du type de contenu Dossiers - Nécessitera une deuxième intervention pour être fonctionnel
+ 
+ - Les écrans "Réglages > Options AntheDesign" & "Réglages > Codes Google" ont été regroupés dans "Apparence > Options du thème", avec une navigation par onglet pour une administration plus simple
+ 
+ - Ajout du n° téléphone dans le Header + stylage
+ - Ajout d'un CTA dans le Header + stylage
+ 
+ - Ces deux éléments sont à administrer dans le nouvel écran "Apparence > Options du thème" 
+ - Ces deux éléments sont renseignés sur la Prod (le CTA pointe vers la page "Devis & Contact", il est possible de modifier le texte du bouton)
+ 
+ - Mise à jour du menu principal sur la Prod (suppression de l'item Devis & Contact pour ne pas faire doublon avec le CTA)
+ 
+ 
+ 
+ 

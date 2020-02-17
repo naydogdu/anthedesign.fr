@@ -1,0 +1,4 @@
+v3.2.22 -> v3.2.23
+ 
+ - Gestion de la v3 de Mailjet (Widget Newsletter maison)
+ - Mise à jour de l'ID liste dans "Apparence > Widgets > CTA Footer > Widget Newsletter"

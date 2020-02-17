@@ -1,0 +1,20 @@
+v3.2.41 -> v3.2.42_Alpha
+
+Body
+ - Nouveau stylage des boutons & champs de formulaires
+
+Forms
+ - Formulaire de demande de devis via Gravity, config & stylage de Gravity (en mode NoCss pour une meilleure maintenabilité)
+
+Divers
+ - Affichage différent sur les filtres catégories (BlogIndex, PortfolioIndex) - bouton à droite
+ 
+à venir : v3.2.42 finale avec le remaniement des vues catégories et l'ajout des "chapitres" dans les Posts
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 

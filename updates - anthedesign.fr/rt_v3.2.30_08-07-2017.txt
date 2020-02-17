@@ -1,0 +1,23 @@
+v3.2.23 -> v3.2.3
+ 
+ - Woo est maintenant fonctionnel sur AntheDesign.fr 
+
+ - Stripe a correctement été configuré. J’ai également configuré & activé Apple Pay.
+
+ - J’ai laissé le paiement par chèque et la CB via Stripe comme méthodes de paiement. Tu peux modifier cela dans les réglages Woocommerce. Pour ajouter le virement bancaire, il faudra renseigner l’IBAN et modifier les instructions.
+
+ - Le premier produit est en brouillon. Je te laisse l’intégration du contenu, ainsi que définir les prix.
+
+ - Polylang n’étant pas nativement compatible avec Woo, j’ai effectué l’intégration moi-même. Si tu vois des chaines anglaises trainer, il faut me le signaler ou les modifier (la correction se fait en BO, menu Outils > Text Change).
+
+ - La TVA est par défaut à 20%, et les prix sont affichés en HT (avec affichage détaillé de la TVA suivi du TTC). Tu peux modifier ce comportement dans les réglages de Woo si tu le souhaites (tout afficher en TTC par exemple).
+
+ - Les emails transactionnels sont également configurés & personnalisés.
+
+ - Le Checkout a été simplifié au maximum pour faciliter le processus de commande.
+
+ - L’icône panier dans le Header n’est visible que si le panier n’est pas vide
+
+ - Dès que tu auras ajouté ton premier produit, tu n’auras plus qu’à ajouter l’item menu « Produits » et/ou ajouter des liens vers ton produit (slide, services…).
+ 
+ - Optimisation script Analytics (local-ga), meilleur score Pingdom

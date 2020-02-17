@@ -1,0 +1,5 @@
+v3.1.0 -> v3.1.1
+
+ - Ajout d'un H3 (paragraphe initialement en "p") dans le Footer CTA (s'intercale entre le h2 Titre Cta et le H4 Titre widget Newsletter). Pas d'impact sur le style du paragraphe.
+
+ - Correction couleur de lien fushia dans box info dégradé (illisible), couleur lien blanc désormais (exemple : https://www.anthedesign.fr/sociaux/instagram/, avant "Pour conclure"). 

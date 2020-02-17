@@ -1,0 +1,13 @@
+v3.2.42_Alpha -> v3.2.43
+
+ - Optimisation Lighthouse (58 à 62), activation et configuration du critical path CSS, avant/après dans dossier "lighthouse"
+
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 

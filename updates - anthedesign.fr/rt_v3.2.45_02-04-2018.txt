@@ -1,0 +1,5 @@
+v3.2.44 -> v3.2.45
+
+ - FIX : Vue Services Index Responsive
+ - FIX : Vue Portfolio Index EN, erreur php corrigée
+ 

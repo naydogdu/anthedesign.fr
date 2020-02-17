@@ -1,0 +1,39 @@
+v3.2.46 -> v3.2.47
+
+ - Fin de la partie "Dossiers", stylage & construction vues Single & Index
+ ---> 1er dossier : https://www.anthedesign.fr/dossier/seo-8-etapes/
+ ---> Index : https://www.anthedesign.fr/dossiers/
+ 
+ - La structure d'un dossier est composée comme suit :
+ ---> Titre
+ ---> Sous-titre
+ ---> Fil d'ariane
+ ---> Intro
+ ---> Contenu
+ ---> Boucle Articles
+   ---> Titre (préconisé unique)
+   ---> Description (préconisé unique)
+   ---> Bloc CTA vers l'article concerné (image à la une, titre de l'article, bouton)
+   ---> Séparateur (permet de "respirer")
+ ---> Fin boucle articles
+ ---> Outro (conclusion)
+ ---> Noter le dossier
+ ---> Partager le dossier
+ 
+ - Les fonctionnalités avancées sont également disponibles pour les Dossiers (accordéons, personnaliser sidebar, personnaliser Cta, popup)
+ - Pour chaque article de dossier, la description utilise un editeur Wysiwyg pour permettre une mise en page avancée
+ 
+ - L'étiquette d'un dossier est de couleur noir
+ 
+ - Passer le premier dossier en brouillon dès que possible (il est "publié" pour pouvoir visualiser la vue Index)
+ - Ajouter le lien vers l'INDEX Dossier à la nav principale dès qu'un premier dossier sera publié
+ 
+ - Dès lors que 3 dossiers au moins seront publiés, il est préconisé de remplacer les 3 premiers blocs de la vue "Blog Index" par des dossiers
+ - Il est également préconisé de reprendre au moins 3 dossiers sur la Home (à voir où)
+ 
+ - FIX : Fil d'ariane activé sur la Prod
+ - FIX : Stylage checkbox wpcf7
+ 
+ 
+ 
+ 

@@ -1,0 +1,10 @@
+v3.2.34 -> v3.2.35
+
+ - Mise en place megamenu service
+ --- Stylage du sous-menu en 2 colonnes (ajout classe "col2" dans item menu, via Apparence > Menu)
+ --- Reprise icône si post type Service
+ - Affichage optimisé sur le menu mobile
+ 
+ 
+ 
+ 

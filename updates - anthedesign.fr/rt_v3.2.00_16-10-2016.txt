@@ -1,0 +1,25 @@
+v3.1.2 -> v3.2.0
+
+ - Ajout d'un bloc "Articles par Catégories" dans la vue Index Blog. Opti responsive du bloc. La page Index Blog est désormais achevée.
+
+ - Gestion de la nav principale. Possibilité de la surcharger pour chaque post dans l'édition (zone "Compléments"), et possibilité de la surcharger pour chaque type de contenu dans son ensemble via Apparence > Nav Principale. (https://www.anthedesign.fr/w2015/wp-admin/themes.php?page=anthecontnav)
+
+ - Adaptation css petit desktop ( entre 960 & 1280px ) pour la nav principale. Permet un affichage optimale pour un item supplémentaire. J'ai déplacé "News" (qui était en sous-menu) à coté de "Créations"
+
+ - Gestion d'une nav supplémentaire dans le Header. Possibilité d'affecter une nav suppl. pour chaque post dans l'édition (zone "Compléments"), et pour chaque type de contenu dans son ensemble via Apparence > Menus suppl. (https://www.anthedesign.fr/w2015/wp-admin/themes.php?page=anthesub)
+
+ - Stylage. La nav suppl. apparaît tout en haut, avant le logo et la nav principale.
+
+ - La nav suppl. gère les sous-menus (ex : http://prep.anthedesign.fr/actualite/). Dans l'exemple, je me suis servi de la nav suppl. pour lister les catégories et quelques tags populaires. Je te laisse t'amuser sur la version prod.
+
+ - La nav suppl. n'apparaît pour le moment que sur les résolutions > 960px.
+
+ - Amélioration vues Index News, Portfolio, Job, Services, Catégories, Tags, Auteur ainsi que les vues "Résultat de recherche" & 404 (Fil d'Ariane masqué, ce dernier étant utile au visiteur sur les Single).
+
+ - Correction bug chevauchement titre/contenu & amélioration de l'équilibre (espacement) titre/contenu sur la Lecture Zen.
+ 
+A noter :
+Les possibilités sont désormais immenses coté UX maintenant que la nav principale peut-être contextualisé, sans compter l'ajout d'un menu supplémentaire. N'hésite pas à te servir du menu suppl. si la nav principale ne te suffit pas (car la nav principale doit quoi qu'il arrive rester à 5-6 items maxi pour ne pas déborder à gauche sur le logo).
+
+A venir (3.2.1) :
+Bloc Catégories Portfolio (dans Index Portfolio), mise à la une Portfolio & mise en page de l'Index Services.

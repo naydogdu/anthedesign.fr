@@ -1,0 +1,12 @@
+v3.2.36 -> v3.2.37
+
+ - On affiche maintenant la date de publication de l'article et non la date de mise à jour. 
+ - Cela modifiera également les micro-données des articles comme à l'initial. 
+ - Il y a la micro-données "dateModified" qui reste en place, mais Google ne la reprend pas dans les SERPs.
+ - Ajout d'une mention "Mis à jour le" sous le titre des articles pour tout de même afficher la date de mise à jour de l'article. 
+ - Google pourra maintenant reprendre celui qui lui plait, sans qu'on le force à prendre en compte la date de modification. 
+ 
+ 
+ 
+ 
+ 

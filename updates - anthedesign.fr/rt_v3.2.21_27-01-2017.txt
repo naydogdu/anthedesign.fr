@@ -1,0 +1,5 @@
+v3.2.20-Alpha -> v3.2.21
+ 
+ - Fin de mise en page & structure Index Portfolio
+ - Ajout de la mise en avant pour les créations (Portfolio), sur la droite dans l'écran d'édition. 
+ - 3 mise en avant maximum & minimum qui s'affiche en premier avant le filtre par catégorie : https://www.anthedesign.fr/portfolio/ (à améliorer en gestion dynamique prochainement)

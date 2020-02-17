@@ -1,0 +1,5 @@
+v3.2.0 -> v3.2.1
+
+ - Corrections W3C : https://validator.w3.org/nu/?doc=https%3A%2F%2Fwww.anthedesign.fr%2F
+  --- Aucune erreur, 2 avertissements sans importance
+ - Corrections données structurées vues Services / Portfolio / Auteur

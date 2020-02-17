@@ -1,0 +1,13 @@
+v3.1.1 -> v3.1.2
+
+ - Correction erreurs schéma Hatom (entry-title) pour toutes les vues
+
+ - Correction erreurs schéma Hatom (updated, author), vues concernées : Image, Job Index, Clients
+
+ - Correction bug visuel sur Desktop > 1480px (post le + récent de la vue Blog Index)
+
+ - Ajout possibilité choisir le niveau de titre (Hn) de l'article dans widget 'Articles Similaires', configuré en h3 stylé en h5.
+
+PS : J'ai modifié le style du titre d'article dans le widget "Post Nav" (articles précédents/suivants sur la sidebar Blog). C'était en h4, passé en h5 (tu as du modifier ?), cela cassait l'harmonie visuelle.
+
+Note : Les erreurs de balisage Hatom ne peuvent pas nuire à l'indexation, c'est juste un plus. 

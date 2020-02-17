@@ -1,0 +1,9 @@
+v3.2.35 -> v3.2.35.1
+
+ - Adaptation de la sidebar figé au scroll qui se positionnait mal après redimensionnement fenêtre navigateur
+ - Optimisation des images du slideshow sur la Home, en prenant compte de la taille d'affichage maximale
+ - Corrections des warnings PHP liées aux plugins et fonctions "fait-maison" afin d'alléger les logs
+ 
+ 
+ 
+ 

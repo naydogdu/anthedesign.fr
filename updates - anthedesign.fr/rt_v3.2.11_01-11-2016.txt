@@ -1,0 +1,11 @@
+v3.2.1 -> v3.2.11
+
+ - Corrections W3C Blog Index: https://validator.w3.org/nu/?doc=https%3A%2F%2Fwww.anthedesign.fr%2Factualite%2F
+  --- Fix erreur w3c du fil d'ariane Yoast SEO
+  --- Aucune erreur, 2 avertissements sans importance
+  
+ - Corrections W3C Blog Single 
+  --- Aucune erreur ni avertissement (sauf quand il y a du Wordpress embed (iframe wp executé après détection de l'url d'un article dans le contenu de l'éditeur visuel))
+  
+ - Correction microdonnées Hatom + opti SEO 
+ --- Meilleure utilisation de "entry-title" et ajout "entry-summary" & "headline"

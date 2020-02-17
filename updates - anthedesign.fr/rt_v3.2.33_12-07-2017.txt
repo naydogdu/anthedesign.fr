@@ -1,0 +1,8 @@
+v3.2.32 -> v3.2.33
+
+ - Corrections visuelles Woo suite à la suppression d'un css du plugin
+ - Optimisation version mobile Woo
+ - Correction bug visuel suite suppression d'un produit du panier
+ 
+ 
+ 

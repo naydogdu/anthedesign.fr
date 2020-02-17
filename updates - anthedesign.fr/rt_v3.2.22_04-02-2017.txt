@@ -1,0 +1,7 @@
+v3.2.21 -> v3.2.22
+ 
+ - Modification vue Index Blog (bouton "Voir la catégorie" passe à gauche sur le bloc "Voir par catégories")
+ - Modification vue Index Portfolio. Bouton "Voir la catégorie" passe à gauche dans le bloc filtre + les items de ce blocs s'affichent sur 2 rangées si items > 3
+ - UI vue Services Index à valider (dossier ressources/anthedesign.fr/UIs)
+ 
+ + Fix "articles" en "créations" dans Portfolio.

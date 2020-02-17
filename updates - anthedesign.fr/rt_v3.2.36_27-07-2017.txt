@@ -1,0 +1,23 @@
+v3.2.35.1 -> v3.2.36
+
+ Popups :
+ - Ajout de la possibilité de déclencher des popups sur les vues Singles (Article, Page, Créa, etc...)
+ - Il est possible de paramétrer le délai (multiple de 10, en secondes, max 600) de déclenchement, ou le laisser par défaut (60)
+ - Le contenu du popup est un CTA, avec l'affichage du titre et de la description du CTA au choix, sans le bouton mais avec un bloc "Newsletter"
+ - Il est donc possible d'ajouter autant de popup différent que nécessaire, en créant de nouveaux CTAs
+ - Il est possible d'afficher le bouton en lieu et place du bloc newsletter dans le popup en cochant la dernière option "Masquer Newsletter" (il faut pour cela s'assurer que le CTA ai bien un bouton, sinon le bloc Newsletter continuera à s'afficher pour ne pas rien afficher)
+ - Cocher seulement "Activer un déclenchement de popup" est dans l'absolu suffisant (reprendra donc le Popup par défaut et un délai de déclenchement par défaut de 60s)
+ - Le popup par défaut (son ID) peut-être renseigné dans "Réglages > Options AntheDesign"
+ - Coté Front, stylage et dév JS du popup (affichage à l'écran via une animation)
+ - Le visiteur peut facilement fermer le popup via une croix
+ 
+ Divers :
+ - Optimisation du Back-Office, champ "Subtitle" traduit et placé juste sous le titre, bloc "Contenus complémentaires" plus lisible
+ - Affichage dynamique des champs pour ne pas polluer l'UX en back-office (les options popups ne s'affichent que lorsqu'on active le popup)
+ - Optimisation du bloc newsletter, lors d'un abonnement avec succès, le champ email/OK ne s'affiche plus (on n'affiche donc que le message en vert et on n'incite plus l'utilisateur à souscrire de nouveau)
+ - Ajout du nombre de vues sur la liste des articles en Back-Office
+ 
+ 
+ 
+ 
+ 

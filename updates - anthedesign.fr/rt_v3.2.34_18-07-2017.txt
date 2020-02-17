@@ -1,0 +1,12 @@
+v3.2.33 -> v3.2.34
+
+ - Appel typo Brandon en local, suppression des appels Typekit
+ - Optimisation des versions locales (woff2) de Brandon (via FontSquirrel), presque aucune perte de qualité
+ - Suppression des scripts et css de Contact Form lorsqu'il n'y a pas besoin (Home, Articles, etc...)
+ - Correction mini-panier sur les pages classiques
+ - Ajustement des configs Rocket
+ - Toutes ces optimisations réduisent encore le poids de la page (879kb contre 1.1Mb)
+ - Score Pingdom à 100% en 513ms (meilleur score)
+ 
+ 
+ 

@@ -1,0 +1,12 @@
+v3.2.11 -> v3.2.20-Alpha
+
+ - Sur la pré-prod
+  -- Mise en place filtre sur les catégories Portfolio 
+  -- Recherche créative
+  -- Modification du template de la vue Index Portfolio
+  -- Dév Php, Css + Js, gestion du responsive
+  -- Développement Js à terminer avec appel ajax si filtre actif - Mise en prod à l'issue en v3.2.20 Finale.
+ 
+ - Sur la prod :
+  -- Préparation des catégories, réorganisation des créations, modifications/suppressions de catégories
+  -- Aucune incidence sur les urls

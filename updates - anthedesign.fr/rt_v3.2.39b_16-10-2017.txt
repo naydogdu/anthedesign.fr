@@ -1,0 +1,10 @@
+v3.2.39 -> v3.2.4
+
+ - Améliorations visuelles, espacements (Home, BlogIndex, ServiceList Home, Footer)
+ 
+
+ 
+ 
+ 
+ 
+ 

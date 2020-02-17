@@ -1,0 +1,17 @@
+v3.2.43 -> v3.2.44
+
+ - Mise en place des toggles (metabox "Accordéons" sur l'écran d'édition) 
+ ---> pour les types de contenu "Post", "Page", "Service", "Produit", "Portfolio", "Job", "News"
+ ---> Dev 100% sur-mesure , ainsi on a toujours un contrôle total du code généré.
+ ---> Le niveau de titre est personnalisable pour chaque accordéons
+ ---> Il est possible pour chaque accordéon de choisir s'il sera ouvert par défaut
+ ---> Les fonctionnalités de l'éditeur visuel sont disponibles pour le contenu des accordéons (listes à puce, gras, boxes infos, etc...)
+ ---> Fonctionnement Front-End : Plusieurs accordéons peuvent être déroulés en même temps (préco UX : https://www.smashingmagazine.com/2017/06/designing-perfect-accordion-checklist/ OU http://www.topfloortech.com/blog/2016/03/11/tabbed-content-hurting-your-website%E2%80%99s-seo#gref)
+ ---> Pour info : Depuis l'index Mobile-first, les contenus accordéons sont considérés comme du contenu "normal" par Google (auparavant ce n'était pas vraiment pris en compte) puisqu'ils sont accessibles en un clic et pas 100% caché au visiteur
+ 
+ - Ajout & Stylage "Notice Cookie" (l'acceptation est stockée en LocalStorage HTML5, et non en cookie). 
+ ---> Dev 100% sur-mesure , ainsi on a toujours un contrôle total du code généré.
+ ---> Administration dans "Réglages" > "Notice Cookie"
+ ---> L'affichage visuel peut être personnalisé de manière avancée
+ 
+ - FIX : Suppression d'un guillement indésirable à la fin du contenu sélectionné lors de l'ajout d'un bloc info

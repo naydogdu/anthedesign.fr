@@ -1,0 +1,10 @@
+v3.2.37 -> v3.2.38
+
+ - Suppression de l'image de fond globale, passage en aplat dégradé (concerne les CTA, le bloc Services sur la Home, etc...). + esthétique, 1 requête en moins sur toutes les pages
+ - Suppression du script BackStrectch qui gérait l'affichage de l'image de fond globale (fixe) sur les tablettes/smartphones (c'est toujours mieux que rien -14ko partout).
+
+ 
+ 
+ 
+ 
+ 

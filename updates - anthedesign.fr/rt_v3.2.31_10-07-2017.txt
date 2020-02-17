@@ -1,0 +1,4 @@
+v3.2.30 -> v3.2.31
+ 
+ - Ajout des options SEO pour les Tabs sur Produits Single (titre "Description" et "Information complémentaire")
+ - FIX Schéma.org erreur

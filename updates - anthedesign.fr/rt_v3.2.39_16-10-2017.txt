@@ -1,0 +1,11 @@
+v3.2.38 -> v3.2.39
+
+ - Fix Affichage Filtre Cat. BlogIndex & PortfolioIndex
+ - Fix Affichage Articles mis en avant sur PortfolioIndex Smartphone
+ - Ajout d'animations au load (header, footer)
+
+ 
+ 
+ 
+ 
+ 
